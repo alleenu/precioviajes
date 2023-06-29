@@ -1,8 +1,6 @@
 # precioviajes
 Sitio web de una agencia de viajes con un cotizador de paquetes turísticos desarrollado en HTML CSS y JavaScript.
 
-Sitio web de una agencia de viajes con un cotizador de paquetes turísticos desarrollado en HTML CSS y JavaScript.
-
 Funcionalidad 
 
 Este código tiene la funcionalidad de calcular y mostrar el costo total de un paquete turístico en función de los valores ingresados en un formulario. A continuación, te explico su funcionamiento:
